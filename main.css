@@ -1,0 +1,62 @@
+.a1{
+    text-align: center  red ;
+}
+
+.box-1 {
+    padding: 5px;
+    outline-style: solid;
+    outline-color: green;
+    outline-width: thin;
+}
+
+.box-2 {
+    outline-width: thin;
+    outline: rgb(0, 248, 12) solid 4px;
+    outline: thick ridge pink;
+}
+
+.box-3 {
+    outline-width: medium;
+    outline: rgb(117, 0, 128) solid 4px;
+    outline-color: outset;
+}
+
+.box-4 {
+    outline-width: thick;
+    outline: rgb(0, 217, 255) solid 4px;
+    outline-style: dotted;
+    margin: 30px;
+    background: rgb(0, 238, 255);
+    border: 1px solid black;
+    outline-offset: 15px;
+}
+.box-5{
+    outline-width: thin;
+    outline: rgb(0, 248, 12) solid 4px;
+    outline: 7px solid rgb(0, 255, 0);   
+}
+.box-6{
+    outline-width: thin;
+    outline: rgb(0, 248, 12) solid 4px;
+    outline: 7px solid rgb(0, 204, 255);  
+}
+.box-7{
+    outline-width: thin;
+    outline: rgb(0, 248, 12) solid 4px;
+    outline: 7px solid rgb(255, 0, 212);  
+}
+.box-8{
+    outline-width: thin;
+    outline: rgb(0, 248, 12) solid 4px;
+    outline: 7px solid rgb(0, 38, 255);  
+}
+.box-9{
+    outline-width: thin;
+    outline: rgb(66, 0, 248) solid 4px;
+    outline: 7px solid rgb(255, 0, 212);  
+}
+.box-10{
+    outline-width: thin;
+    outline: rgb(0, 25, 250) solid 4px;
+    outline: 7px solid rgb(111, 0, 255);  
+}
